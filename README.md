@@ -10,3 +10,10 @@ Gostaria de Agradecer ao Incrível Sir Túlio por ter Disponibilizado conhecimen
 
 
 Tentarei hospedar o projeto na plataforma ZEIT.
+
+https://bugtracker-devpleno-two-ruby.now.sh/ 
+
+
+Link para Acessar.
+
+Sei que algumas pastas não precisavam vim junto no commit, acabei esquecendo como configurar o git para ignorar a pasta especifica.....
